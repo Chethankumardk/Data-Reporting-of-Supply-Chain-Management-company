@@ -17,3 +17,6 @@ Client’s Level of Education
 Client’s Housing Type
 Client’s Family Status
 Client’s Occupation Type
+
+SOLUTION:
+Link = https://docs.google.com/spreadsheets/d/1EaCm2n7LoIKfDP5QQEZAZsXYOsYympqE/edit?usp=sharing&ouid=101247440597897541106&rtpof=true&sd=true
